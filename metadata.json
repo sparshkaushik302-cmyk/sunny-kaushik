@@ -1,0 +1,6 @@
+{
+  "name": "Kanha Bazaar",
+  "description": "Smart Finds. Better Choices. Modern Indian-inspired affiliate shopping platform with WooCommerce architecture and AI product discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
